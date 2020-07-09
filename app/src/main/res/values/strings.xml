@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cuestionario</string>
+    <string name="more">more</string>
+    <string name="content_description_more">description more</string>
+    <string name="page_title">Screen Cuestionario</string>
+    <string name="full_name">Nombre Completo</string>
+    <string name="next">Siguiente</string>
+    <string name="data">Fecha Nacimiento:</string>
+    <string name="phone">Telefono:</string>
+    <string name="email">Email:</string>
+    <string name="description">Descripcion:</string>
+    <string name="edit">Editar Datos</string>
+    <string name="page_title2">Screen Datos</string>
+    <string name="confirm">Confirmar Datos</string>
+    <string name="pick_date">Elegir Fecha</string>
+</resources>
